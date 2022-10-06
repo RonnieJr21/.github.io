@@ -2,7 +2,6 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/RonnieJr21/.github.io.git",
   "dependencies": {
     "-": "^0.0.1",
     "react": "^16.11.0",
