@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RonnieJr21/.github.io.git/static/css/main.c1741633.css",
+    "main.js": "/RonnieJr21/.github.io.git/static/js/main.0c133859.js",
+    "index.html": "/RonnieJr21/.github.io.git/index.html",
+    "main.c1741633.css.map": "/RonnieJr21/.github.io.git/static/css/main.c1741633.css.map",
+    "main.0c133859.js.map": "/RonnieJr21/.github.io.git/static/js/main.0c133859.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1741633.css",
+    "static/js/main.0c133859.js"
+  ]
+}
